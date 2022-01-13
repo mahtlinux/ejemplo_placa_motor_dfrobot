@@ -1,5 +1,5 @@
 {
-    "name": "ultrasonidos_1_placa_motor_dfrobot",
+    "name": "placa_motor_dfrobot",
     "description": "",
     "dependencies": {
         "core": "*",
